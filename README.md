@@ -1,16 +1,12 @@
-## Hi there 👋
+## Welcome! 🤓
 
-<!--
-**cunhaleo/cunhaleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🫡 My name is Leonardo Cunha.
+- 💻 I'm a passionate iOS Software Developer and an Automation Engineer.<br/>
+- ❇️ I strive to keep my things as clean as i can, that includes this README file.<br/>
+- 📌 I'll pin some of my recent projects in here.
+- 👨🏻‍💻 These projects are mostly focused on learning:
+  - Frameworks
+  - Architectural concepts
+  - Design patterns
+  - Testing
+- 💅 So you may find some goofy UI, and thats OK. My goal is to make their **code** look good.
